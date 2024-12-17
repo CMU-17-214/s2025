@@ -337,7 +337,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Apr 25</td>
-      <td><span class="rec">Lab 13</span> Design Pattern Review</td>
+      <td><span class="rec">Lab 14</span> Design Pattern Review</td>
       <td />
     </tr>
   </tbody>
