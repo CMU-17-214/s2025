@@ -315,7 +315,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Apr 18</td>
-      <td class="rec">TBD</td>
+      <td><span class="rec">Lab 13</span> TBD</td>
       <td />
     </tr>
   </tbody>
