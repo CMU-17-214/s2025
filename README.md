@@ -27,7 +27,7 @@ The instructors have an open door policy: If the instructors' office doors are o
 
 ## <a name=calendar></a>Calendar
 
-<!-- <iframe src="https://calendar.google.com/calendar/embed?src=c_2a6e790c6ae7fd610c0f21536ff9b4a7447f8d7e24cd18343d59f10af3297ed3%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
+<iframe src="https://calendar.google.com/calendar/embed?src=c_1047e0646ed85ac3522f7f25ca967b47871e886f7a9943ce995199c92f9f8c87%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Schedule
 
@@ -404,11 +404,11 @@ This course does not have a fixed letter grade policy; i.e., the final letter gr
 
 **Homework grading and regrading.** We try to be transparent in our rubrics in our assignments. Feel free to ask instructors or TAs clarification questions about the rubrics before the assignment is due. If you disagree with a grade, please submit a regrade request within 7 days on Gradescope. Regrade requests need a justification, explaining why our assessment is inconsistent with the rubric. Regrade requests without such justification will be closed.
 
-Each student can *resubmit* any *one* assignment milestone and it will be regraded as if it was the first submission (see below).
+Each student can *resubmit* any *one* assignment milestone (except HWs 2a, 2b, and 6b) and it will be regraded as if it was the first submission (see below).
 
 **Participation and quizzes.** You should expect a quiz at the start of nearly every lecture and often additional in-class activities within the lecture. When a reading assignment is given, the quiz will typically touch on the content from the reading material. Otherwise (and sometimes in addition), the quiz centers around the content from the most recent lecture or two. A quiz will typically have 1-2 questions and is graded pass/fail.
 
-**Labs.** Labs will be graded on a pass/fail basis during recitations. You will have a chance during recitation to improve your solution. See a description [here](https://github.com/CMU-17-214/f2024/blob/main/labs.md).
+**Labs.** Labs will be graded on a pass/fail basis during recitations. You will have a chance during recitation to improve your solution. See a description [here](https://github.com/CMU-17-214/s2025/blob/main/labs.md).
 
 **Late work.** We understand that normal life events, including projects and exams in other courses and technical difficulties out of your control, can interfere with your ability to complete your work on time or attend lectures and recitations. Our philosophy is that our late work policy includes built-in flexibility but that the policy will be uniformly applied to all students in all circumstances. Exceptions to this policy will be made only with explicit accommodations, almost always involving a family or medical emergency with your academic advisor or the Dean of Student Affairs requesting the exception on your behalf.
 
@@ -417,7 +417,7 @@ We provide the following flexibility, no questions asked, no justification neede
 - For quizzes, we will drop up to two missed/failed solutions during the semester.
 - For labs, we will drop up to two missed/failed solutions during the semester.
 - For homework deadlines you have 5 free late days for the semester. You can exceed each deadline by up to three days (unless explicitly specified otherwise in the assignment, check carefully), for a penalty of 10% per day once you run out of free late days. This policy applies to all homework deadlines *except homeworks 2a and 2b*.
-- For a single homework deadline during the semester, you can redo and resubmit your work after it was graded. It will be regraded as if it was the first submission and you can regain all lost points. Each student can only do this once. We accept resubmissions until December 8th at 11:59pm. (While we do not recommend it, you can use this as arbitrary late days for a single deadline, receiving 0 points for missing the initial deadline and then resubmitting later).
+- For a single homework deadline during the semester (except homeworks 2a, 2b, and 6b), you can redo and resubmit your work after it was graded. It will be regraded as if it was the first submission and you can regain all lost points. Each student can only do this once. We accept resubmissions until April 25 at 11:59pm. (While we do not recommend it, you can use this as arbitrary late days for a single deadline, receiving 0 points for missing the initial deadline and then resubmitting later).
 
 Any work submitted beyond the flexibility provided by these mechanisms will receive feedback but no credit unless explicit accommodations were provided.
 
