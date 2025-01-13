@@ -44,7 +44,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr class="">
       <td>Mon, Jan 13</td>
-      <td>Intro, IDEs, Build Systems, CI, Libraries</td>
+      <td><a href="https://docs.google.com/presentation/d/1bq0QX9d4k_dQCkErmFHgAZ3YyQJAvtF4H_UHwWYXYk0/edit?usp=sharing">Intro, IDEs, Build Systems, CI, Libraries</a></td>
       <td></td>
     </tr>
     <tr class="">
