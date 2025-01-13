@@ -78,7 +78,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Jan 27</td>
-      <td><span class="assignment"><span class="hw">HW 1 due</span> Flash cards (Intro to OO and Libraries)</td>
+      <td><span class="assignment"><span class="hw">HW 1 due</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/assignments/hw1.md">Flash cards (Intro to OO and Libraries)</a></td>
       <td />
     </tr>
     <tr class="">
