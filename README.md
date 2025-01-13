@@ -362,19 +362,7 @@ Terry (Jielin) Li [jielinl],
 
 Yikang Cheng [yikangc],
 
-Eileen Gu [yingfan2],
-
-Yibo Ma [yibom]
-
-<!-- Others:
-Matthew Wong [chunkitw],
-
-Fuzhen Zhan [fzhan],
-
-Shuaichen Yan [shuaichy],
-
-Josh Joung [yoochanj]
- -->
+Eileen Gu [yingfan2]
 
 ## <a name="syllabus"></a>Course Syllabus and Policies
 
