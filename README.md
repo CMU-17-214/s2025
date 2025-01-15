@@ -49,7 +49,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Jan 15</td>
-      <td>OO basics, Dynamic dispatch, Encapsulation</td>
+      <td><a href="https://docs.google.com/presentation/d/1rZNfr7A8hi_WPn7KxDJDF8ciSmrD4x6oPJ2UU8iqK5w/edit?usp=sharing">OO basics, Dynamic dispatch, Encapsulation</a></td>
       <td></td>
     </tr>
     <tr>
