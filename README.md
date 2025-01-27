@@ -83,7 +83,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Mon, Jan 27</td>
-      <td>Responsibility Assignment</td>
+      <td> <a href="https://docs.google.com/presentation/d/1op3yLtKi5uzM_AQfK2Yng1f8xECBgqtJdbyUYjD0U8k/edit?usp=sharing">Responsibility Assignment</a></td>
       <td><a href="https://www.safaribooksonline.com/library/view/applying-uml-and/0131489062">UML and Patterns</a>, Ch. 9-11, 15-16</td>
     </tr>
     <tr class="">
