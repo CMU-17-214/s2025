@@ -132,7 +132,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Fri, Feb 14</td>
-      <td><span class="rec">Lab 5</span> Refactoring and Anti-patterns</td>
+      <td><span class="rec">Lab 5</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab05.md">Refactoring and Anti-patterns</a></td>
       <td />
     </tr>
   </tbody>
