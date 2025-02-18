@@ -38,11 +38,11 @@ For the `ArrayIntQueue` class, use structural testing. Specifically test the und
 
 The `Test Runner for Java` plugin in VSCode provides great test integration functionality. The testing side panel shows all the tests of the current project. You can also run all tests or a particular test here.
 
-![lab06_test_side_panel](labs/images/lab06/lab06_test_side_panel.png)
+![lab06_test_side_panel](images/lab06/lab06_test_side_panel.png)
 
 After running the test cases, the plugin also shows the failed test cases. Also, you can direct to the failed assertions, and VSCode can show the concrete reasons for the failures.
 
-![lab06_test_example](labs/images/lab06/lab06_test_example.png)
+![lab06_test_example](images/lab06/lab06_test_example.png)
 
 ## Appendix 2: Test Directories For Java
 
@@ -53,6 +53,6 @@ By convention in Maven, test files are placed in a test folder with the path `sr
 In Java, we already set up the project to use Jacoco for collecting coverage information. If you run `mvn test` or `mvn site` to execute the tests, it will produce a report in `target/site/jacoco/index.html`. You can check the pom.xml file to see how we enabled this. Open with a browser to view the coverage report.
 
 Your jacoco report should be similar to this when viewed in the browser.
-![lab06_jacoco_report](labs/images/lab06/lab06_jacoco_report.png)
+![lab06_jacoco_report](images/lab06/lab06_jacoco_report.png)
 
 In VSCode you can run tests with Coverage directly from within your IDE: Right click on test class and select **Run '$classname' with Coverage**; there should be a panel that pops up the right side of the screen showing class coverage.
