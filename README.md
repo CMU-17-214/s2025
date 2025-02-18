@@ -166,7 +166,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Feb 26</td>
-      <td><span class="assignment"><span class="hw">HW 3 due</span> Testing</span></td>
+      <td><span class="assignment"><span class="hw">HW 3 due</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/assignments/hw3.md">Testing</a></span></td>
       <td />
     </tr>
     <tr>
