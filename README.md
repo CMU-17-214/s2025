@@ -149,7 +149,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Feb 19</td>
-      <td>Test Case Design</td>
+      <td><a href="https://docs.google.com/presentation/d/1Rwsugxlb_5L_jnB-U076daOhxPjB3GYQISOigSdBHFQ/edit?usp=sharing">Test Case Design</a></td>
       <td />
     </tr>
     <tr>
