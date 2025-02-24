@@ -161,7 +161,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Feb 24</td>
-      <td>Testability</td>
+      <td><a href="https://docs.google.com/presentation/d/1nancOtE_zZ9MnfsdvVr1wup9uLQ59j7BVFwAY4K4dm8/edit?usp=sharing">Testability</a></td>
       <td />
     </tr>
     <tr>
