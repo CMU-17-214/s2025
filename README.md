@@ -176,7 +176,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Feb 28</td>
-      <td><span class="rec">Lab 7</span> Test Doubles</td>
+      <td><span class="rec">Lab 7</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab07.md">Test Doubles</a></td>
     </tr>
   </tbody>
   <tbody>
