@@ -171,7 +171,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Feb 26</td>
-      <td>Introduction to Concurrency</td>
+      <td><a href="https://docs.google.com/presentation/d/1d8rilWyUSVwSZu9XSZGYGvtfbnxEzgcHuTsv0GO__zs/edit?usp=sharing">Introduction to Concurrency</a></td>
       <td />
     </tr>
     <tr>
