@@ -199,7 +199,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Mar 10</td>
-      <td>Concurrency and Hazards</td>
+      <td><a href="https://docs.google.com/presentation/d/1yx7y82ERwVBcYf_GZj-tniv6P4dE1Tvuxtf14WqV-ek/edit?usp=sharing">Concurrency and Hazards</a></td>
       <td />
     </tr>
     <tr>
