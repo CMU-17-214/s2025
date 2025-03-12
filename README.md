@@ -209,7 +209,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Mar 12</td>
-      <td>Java Parallelism</td>
+      <td><a href="https://docs.google.com/presentation/d/1GafiPRiEbxFlWmqHNUGk-wec7CQp7QMxHKFxAcJinPY/edit?usp=sharing">Java Parallelism</a></td>
       <td />
     </tr>
     <tr>
