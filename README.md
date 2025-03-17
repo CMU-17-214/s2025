@@ -221,7 +221,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Mar 17</td>
-      <td>Concurrency and Asynchrony in TypeScript</td>
+      <td><a href="https://docs.google.com/presentation/d/1oKH9OBjhuflvNBwbpQ0YkHrYor-eGdMVDgQeeZbgF3k/edit?usp=sharing">Concurrency and Asynchrony in TypeScript</a></td>
       <td />
     </tr>
     <tr>
