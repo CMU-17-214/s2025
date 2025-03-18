@@ -41,7 +41,7 @@ In the user interface in the web browser you can enter a topic and start the ana
 * When connections to Wikipedia or the Google Cloud API fail and cannot be recovered or any other computations fail, report an error message to the frontend gracefully. Your server should still be able to handle 5 concurrent jobs and up to 5 concurrent backend requests afterward.
 * The backend validates inputs received from the frontend. Reject empty and invalid inputs with HTTP error code 400.
 
-**What to change:** This homework can be completed by only making changes to `backend.ts`, `visionapi.ts`, and `wikipediaapi.ts`. We plan to automate some testing of your code, as such, do NOT change the `Connections` interface and the signature of the `smilingFacesBackend` function. Also do not change the protocol between the backend and frontend. If we cannot grade your submission because you change any of these, we will assign zero points to that specific rubric item. Make all external calls through the APIs in `Connections` and do not make web calls with any other API. You may, and probably should, develop your own abstractions on top of the functions in `Connections`.
+**What to change:** This homework can be completed by only making changes to `backend.ts`, `visionapi.ts`, and `wikipediaapi.ts`. We will automate testing of your code using the provided tests, as such, do NOT change the `Connections` interface and the signature of the `smilingFacesBackend` function. Also do not change the protocol between the backend and frontend. If we cannot grade your submission because you change any of these, we will assign zero points to that specific rubric item. Make all external calls through the APIs in `Connections` and do not make web calls with any other API. You may, and probably should, develop your own abstractions on top of the functions in `Connections`.
 
 ## Submitting your work
 
@@ -76,7 +76,7 @@ Others:
 
 **How to start:** The code is functional as provided. Identify where the *sync* functions from `Connections` are called and understand how they are used. Incrementally turn synchronous functions in asynchronous ones by changing return type `T` to `Promise<T>` and updating the implementation of the function and its call sides accordingly.
 
-It is difficult to make only local changes as incremental refactorings. It might be easier to change the entire WikipediaAPI or VisionAPI class at once. If necessary, comment out the vision API steps first and just get images from topics with and without neighboring topics. It might be useful to write simple tests for the calls to the Wikipedia API that can run outside the backend, e.g., with jest or with a simple main function just calling `newWikipediaAPI(new DefaultConnection()).getImageLinksFromTopic("David Tepper")`.
+It is difficult to make only local changes as incremental refactorings. It might be easier to change the entire WikipediaAPI or VisionAPI class at once. If necessary, comment out the vision API steps first and just get images from topics with and without neighboring topics. We have included the tests that we will use for grading, but it might be useful to write simple tests for the calls to the Wikipedia API that can run outside the backend, e.g., with jest or with a simple main function just calling `newWikipediaAPI(new DefaultConnection()).getImageLinksFromTopic("David Tepper")`.
 
 **Implementation suggestions:** We recommend to use promises or async/await. It might be a good starting point to turn the provided connection functions with callbacks into promises. Beyond that you might find `Promise.all` useful.
 
@@ -86,11 +86,9 @@ The homework changes can all be fully implementing with plain Node code. Conside
 
 The execution order of concurrent code may not always be intuitive. Consider using a debugger or using print statements in the code to follow the execution.
 
-**Testing suggestions:** Writing tests may be useful, but is not required in this assignment. There are good opportunities for testing with stubs in the backend; the backend code is written in a way to make this testing easy by avoiding global functions. We do not suggest to test frontend code.
+**Testing suggestions:** Writing additional tests may be useful, but is not required in this assignment. There are good opportunities for testing with stubs in the backend; the backend code is written in a way to make this testing easy by avoiding global functions. You can find examples of stub testing in the tests we proveded in the `tests/` directory. You can run them with `npm run test`.
 
-A basic testing infrastructure is already setup in directory `tests/`, but there is only one test implemented. The example test uses stubs, but you can also run tests against Wikipedia and Google Cloud by just using the `DefaultConnection` class. Of course you can also test parts of your implementation without starting express, for example by writing tests for the functions in `wikipediaapi.ts`.
-
-While you are not required to automate tests, we will use tests in the style of the provided examples for grading.
+A testing infrastructure is already setup in the `tests/` directory; these are the tests that we will use to grade your code. If you wish, you may also add tests of your own.
 
 **Tooling suggestions:** If you want to send requests to the backend without running the frontend, you can send requests on the command line, such as
 
@@ -98,4 +96,4 @@ While you are not required to automate tests, we will use tests in the style of 
 curl -X POST -H "Content-Type: application/json" -d '{"name": "David Tepper", "withNeighbors": false}' http://localhost:8080/job
 ```
 
-With `npx tsc --watch` you can keep the TypeScript compiler running in a terminal and it will automatically compile changes whenever you safe a file. In a second terminal,  `npx nodemon .` it will restart your application (the backend) after every change, that is, whenever the compiler has produced a new version. The test runner `jest` watches changes by default.
+With `npx tsc --watch` you can keep the TypeScript compiler running in a terminal and it will automatically compile changes whenever you safe a file. In a second terminal,  `npx nodemon .` it will restart your application (the backend) after every change, that is, whenever the compiler has produced a new version.
