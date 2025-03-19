@@ -261,12 +261,12 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Mar 31</td>
-      <td><span class="assignment"><span class="hw">HW 5 due</span> Concurrency</td>
+      <td>Libraries and Frameworks</td>
       <td />
     </tr>
     <tr>
-      <td>Mon, Mar 31</td>
-      <td>Libraries and Frameworks</td>
+      <td>Wed, Apr 2</td>
+      <td><span class="assignment"><span class="hw">HW 5 due</span> Concurrency</td>
       <td />
     </tr>
     <tr>
