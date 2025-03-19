@@ -231,7 +231,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Mar 19</td>
-      <td>Concurrency and Patterns</td>
+      <td><a href="https://docs.google.com/presentation/d/1VlTLnH6zOTVe_gfsIj0xtJJNDuV39P9CWMR8H7TEFq4/edit?usp=sharing">Concurrency and Patterns</a></td>
       <td />
     </tr>
     <tr>
