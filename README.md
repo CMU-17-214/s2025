@@ -254,7 +254,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Mar 28</td>
-      <td><span class="rec">Lab 10</span> ReactJS/Intro to GUIs</td>
+      <td><span class="rec">Lab 10</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab10.md">TicTacToe Client/Server</td>
       <td />
     </tr>
   </tbody>
