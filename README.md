@@ -343,7 +343,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   </tbody>
   <tbody>
     <tr class="midterm">
-      <td>TBD</td>
+      <td>Thur, May 1</td>
       <td>Final Exam</td>
       <td />
     </tr>
