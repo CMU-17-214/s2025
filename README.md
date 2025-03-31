@@ -261,7 +261,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Mar 31</td>
-      <td>Libraries and Frameworks</td>
+      <td><a href="https://docs.google.com/presentation/d/1dpdJfsFt8kdotKJwXVFMfDfkmvreHD4JGRIitCUABxY/edit?usp=sharing">Libraries and Frameworks</a></td>
       <td />
     </tr>
     <tr>
