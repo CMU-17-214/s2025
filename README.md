@@ -315,7 +315,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Apr 18</td>
-      <td><span class="rec">Lab 12</span> TBD</td>
+      <td class="break">No Lab</td>
       <td />
     </tr>
   </tbody>
@@ -337,7 +337,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Apr 25</td>
-      <td><span class="rec">Lab 13</span> Design Pattern Review</td>
+      <td><span class="rec">Lab 12</span> Design Pattern Review</td>
       <td />
     </tr>
   </tbody>
