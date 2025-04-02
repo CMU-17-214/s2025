@@ -271,7 +271,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Apr 2</td>
-      <td>API Design</td>
+      <td><a href="https://docs.google.com/presentation/d/1y3ph5frCOtXjxYQ_fJdmdDr4BY8LqY6_DcMsUCMCKVQ/edit?usp=sharing">API Design</a></td>
       <td />
     </tr>
     <tr>
