@@ -50,4 +50,4 @@ Homework 5 involves calling external APIs, specifically the [Google Cloud Vision
 
 ### Run and modify code
 
-1. Clone the template repository <https://github.com/CMU-17-214/f24-lab09> and follow the directions in the README.
+1. Clone the template repository <https://github.com/CMU-17-214/s25-lab09> and follow the directions in the README.

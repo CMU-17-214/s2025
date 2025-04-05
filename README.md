@@ -88,7 +88,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Jan 29</td>
-      <td>Inheritance and Delegation</td>
+      <td><a href="https://docs.google.com/presentation/d/1F6cd6Jgpmal6WUdJ6CQMrzOTu46xgiIJZZHxChhgB9I/edit?usp=sharing">Inheritance and Delegation</a></td>
       <td />
     </tr>
     <tr>
@@ -100,29 +100,29 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr class="">
       <td>Mon, Feb 3</td>
-      <td>Design Patterns</td>
+      <td><a href="https://docs.google.com/presentation/d/1YFkN55Ho_Rb6hpZtI1cz8VHGyJK3yoUAFDBXHy9RpV4/edit?usp=sharing">Design Patterns</a></td>
       <td><a href="https://www.safaribooksonline.com/library/view/applying-uml-and/0131489062">UML and Patterns</a>, Ch. 17-18</td>
     </tr>
     <tr class="">
       <td>Wed, Feb 5</td>
-      <td>Design Critique</td>
+      <td><a href="https://docs.google.com/presentation/d/1n9WoSeW5uONeHT_8sXu8SKAonqtCa5QbhAtpOWmAinM/edit?usp=sharing">Design Practice</a></td>
       <td />
     </tr>
     <tr>
       <td>Fri, Feb 7</td>
-      <td><span class="rec">Lab 4</span> Design and UML</td>
+      <td><span class="rec">Lab 4</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab04.md">Design and UML</a></td>
       <td />
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>Mon, Feb 10</td>
-      <td><span class="assignment"><span class="hw">HW 2a due</span> Santorini: Intro to Design</td>
+      <td><span class="assignment"><span class="hw">HW 2a due</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/assignments/hw2.md">Santorini: Intro to Design</a></td>
       <td />
     </tr>
     <tr>
       <td>Mon, Feb 10</td>
-      <td>Refactoring and Anti-patterns</td>
+      <td><a href="https://docs.google.com/presentation/d/1Cx-vdgTlNeDOcQfenLzuJHa1tYr7s4E9hNQy3EjNYv0/edit?usp=sharing">Refactoring and Anti-patterns</a></td>
       <td />
     </tr>
     <tr class="midterm">
@@ -132,7 +132,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Fri, Feb 14</td>
-      <td><span class="rec">Lab 5</span> Refactoring and Anti-patterns</td>
+      <td><span class="rec">Lab 5</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab05.md">Refactoring and Anti-patterns</a></td>
       <td />
     </tr>
   </tbody>
@@ -144,39 +144,39 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Mon, Feb 17</td>
-      <td>Specifications and Unit Testing, Exceptions</td>
+      <td><a href="https://docs.google.com/presentation/d/1qYDD52qtKWjifiu3uqeMgmbk2f6seuHGiLZtR6JMagQ/edit?usp=sharing">Specifications and Unit Testing, Exceptions</a></td>
       <td />
     </tr>
     <tr class="">
       <td>Wed, Feb 19</td>
-      <td>Test Case Design</td>
+      <td><a href="https://docs.google.com/presentation/d/1Rwsugxlb_5L_jnB-U076daOhxPjB3GYQISOigSdBHFQ/edit?usp=sharing">Test Case Design</a></td>
       <td />
     </tr>
     <tr>
       <td>Fri, Feb 21</td>
-      <td><span class="rec">Lab 6</span> Unit Testing</td>
+      <td><span class="rec">Lab 6</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab06.md">Unit Testing</a></td>
       <td />
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>Mon, Feb 24</td>
-      <td>Testability</td>
+      <td><a href="https://docs.google.com/presentation/d/1nancOtE_zZ9MnfsdvVr1wup9uLQ59j7BVFwAY4K4dm8/edit?usp=sharing">Testability</a></td>
       <td />
     </tr>
     <tr>
       <td>Wed, Feb 26</td>
-      <td><span class="assignment"><span class="hw">HW 3 due</span> Testing</span></td>
+      <td><span class="assignment"><span class="hw">HW 3 due</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/assignments/hw3.md">Testing</a></span></td>
       <td />
     </tr>
     <tr>
       <td>Wed, Feb 26</td>
-      <td>Introduction to Concurrency</td>
+      <td><a href="https://docs.google.com/presentation/d/1d8rilWyUSVwSZu9XSZGYGvtfbnxEzgcHuTsv0GO__zs/edit?usp=sharing">Introduction to Concurrency</a></td>
       <td />
     </tr>
     <tr>
       <td>Fri, Feb 28</td>
-      <td><span class="rec">Lab 7</span> Test Doubles</td>
+      <td><span class="rec">Lab 7</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab07.md">Test Doubles</a></td>
     </tr>
   </tbody>
   <tbody>
@@ -199,29 +199,29 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Mar 10</td>
-      <td>Concurrency and Hazards</td>
+      <td><a href="https://docs.google.com/presentation/d/1yx7y82ERwVBcYf_GZj-tniv6P4dE1Tvuxtf14WqV-ek/edit?usp=sharing">Concurrency and Hazards</a></td>
       <td />
     </tr>
     <tr>
       <td>Wed, Mar 12</td>
-      <td><span class="assignment"><span class="hw">HW 4 due</span> Design and Testability Refactoring</td>
+      <td><span class="assignment"><span class="hw">HW 4 due</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/assignments/hw4.md">Design and Testability Refactoring</a></td>
       <td />
     </tr>
     <tr>
       <td>Wed, Mar 12</td>
-      <td>Java Parallelism</td>
+      <td><a href="https://docs.google.com/presentation/d/1GafiPRiEbxFlWmqHNUGk-wec7CQp7QMxHKFxAcJinPY/edit?usp=sharing">Java Parallelism</a></td>
       <td />
     </tr>
     <tr>
       <td>Fri, Mar 14</td>
-      <td><span class="rec">Lab 8</span> Java Parallelism</td>
+      <td><span class="rec">Lab 8</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab08.md">Java Parallelism</a></td>
       <td />
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>Mon, Mar 17</td>
-      <td>Concurrency and Asynchrony in TypeScript</td>
+      <td><a href="https://docs.google.com/presentation/d/1oKH9OBjhuflvNBwbpQ0YkHrYor-eGdMVDgQeeZbgF3k/edit?usp=sharing">Concurrency and Asynchrony in TypeScript</a></td>
       <td />
     </tr>
     <tr>
@@ -231,12 +231,12 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Mar 19</td>
-      <td>Concurrency and Patterns</td>
+      <td><a href="https://docs.google.com/presentation/d/1VlTLnH6zOTVe_gfsIj0xtJJNDuV39P9CWMR8H7TEFq4/edit?usp=sharing">Concurrency and Patterns</a></td>
       <td />
     </tr>
     <tr>
       <td>Fri, Mar 21</td>
-      <td><span class="rec">Lab 9</span> Concurrency and Promises</td>
+      <td><span class="rec">Lab 9</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab09.md">Concurrency and Promises</a></td>
       <td />
     </tr>
     <tr>
@@ -244,7 +244,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Mar 24</td>
-      <td>GUIs</td>
+      <td><a href="https://docs.google.com/presentation/d/1pbj3Lewr5ZEty1k-pqQnDrIb75ANFL4YuUT0QYz-Aas/edit?usp=sharing">GUIs</a></td>
       <td />
     </tr>
     <tr class="midterm">
@@ -254,24 +254,24 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Mar 28</td>
-      <td><span class="rec">Lab 10</span> ReactJS/Intro to GUIs</td>
+      <td><span class="rec">Lab 10</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/labs/lab10.md">TicTacToe Client/Server</td>
       <td />
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>Mon, Mar 31</td>
-      <td><span class="assignment"><span class="hw">HW 5 due</span> Concurrency</td>
-      <td />
-    </tr>
-    <tr>
-      <td>Mon, Mar 31</td>
-      <td>Libraries and Frameworks</td>
+      <td><a href="https://docs.google.com/presentation/d/1dpdJfsFt8kdotKJwXVFMfDfkmvreHD4JGRIitCUABxY/edit?usp=sharing">Libraries and Frameworks</a></td>
       <td />
     </tr>
     <tr>
       <td>Wed, Apr 2</td>
-      <td>API Design</td>
+      <td><span class="assignment"><span class="hw">HW 5 due</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/assignments/hw5.md">Concurrency</a></td>
+      <td />
+    </tr>
+    <tr>
+      <td>Wed, Apr 2</td>
+      <td><a href="https://docs.google.com/presentation/d/1y3ph5frCOtXjxYQ_fJdmdDr4BY8LqY6_DcMsUCMCKVQ/edit?usp=sharing">API Design</a></td>
       <td />
     </tr>
     <tr>
@@ -288,7 +288,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Apr 9</td>
-      <td><span class="assignment"><span class="hw">HW 6a due</span> Santorini: User Interface</td>
+      <td><span class="assignment"><span class="hw">HW 6a due</span> <a href="https://github.com/CMU-17-214/s2025/blob/main/assignments/hw6.md">Santorini: User Interface</a></td>
     <td />
     </tr>
     <tr>
@@ -315,7 +315,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Apr 18</td>
-      <td><span class="rec">Lab 12</span> TBD</td>
+      <td class="break">No Lab</td>
       <td />
     </tr>
   </tbody>
@@ -337,13 +337,13 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Apr 25</td>
-      <td><span class="rec">Lab 13</span> Design Pattern Review</td>
+      <td><span class="rec">Lab 12</span> Design Pattern Review</td>
       <td />
     </tr>
   </tbody>
   <tbody>
     <tr class="midterm">
-      <td>TBD</td>
+      <td>Thur, May 1</td>
       <td>Final Exam</td>
       <td />
     </tr>
