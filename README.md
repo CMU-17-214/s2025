@@ -310,7 +310,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Apr 16</td>
-      <td>TBD</td>
+      <td><a href="https://docs.google.com/presentation/d/1V2Q76cBBZUcHTkQa5DvK3jRUyoamB-0YN0YEFdNFWgE/edit?usp=sharing">Static & Dynamic Typing & Analysis</a></td>
       <td />
     </tr>
     <tr>
