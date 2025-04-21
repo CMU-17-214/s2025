@@ -322,7 +322,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Apr 21</td>
-      <td>DevOps</td>
+      <td><a href="https://docs.google.com/presentation/d/1K2tJ6gkdSRsyH7kjw99z07icRhdU832jyP5GRyHbmOs/edit?usp=sharing">DevOps</a></td>
       <td />
     </tr>
     <tr>
