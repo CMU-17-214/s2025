@@ -344,7 +344,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr class="midterm">
       <td>Thur, May 1<br />8:30-11:30am</td>
-      <td>Final Exam - GHC 4215</td>
+      <td>Final Exam<br />GHC 4215</td>
       <td />
     </tr>
   </tbody>
